@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '测试',
-  domain: 'https://www.notion.so/02c830cc45274476b0c368d3da884cfa',
+  domain: 'https://learned-gateway-c09.notion.site/02c830cc45274476b0c368d3da884cfa',
   author: 'sslshuanglong',
 
   // open graph metadata (optional)
