@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '02c830cc45274476b0c368d3da884cfa',
+  rootNotionPageId: '400c9a1655ed42499cb125363d5abbf3',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '测试',
-  domain: 'https://learned-gateway-c09.notion.site/02c830cc45274476b0c368d3da884cfa',
+  name: '主页',
+  domain: 'https://learned-gateway-c09.notion.site/400c9a1655ed42499cb125363d5abbf3',
   author: 'sslshuanglong',
 
   // open graph metadata (optional)
